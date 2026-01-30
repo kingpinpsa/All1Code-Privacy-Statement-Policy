@@ -2,8 +2,8 @@
 
 ## **Privacy Policy for LifeGuard**  
 ## **Effective Date:** 1/30/2026  
-**Company:** ALL1CODE, LLC  
-**Application:** LifeGuard  
+## **Company:** ALL1CODE, LLC  
+## **Application:** LifeGuard  
 
 ---
 
