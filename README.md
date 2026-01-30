@@ -1,1 +1,183 @@
-# All1Code-Privacy-Statement-Policy
+---
+
+# **Privacy Policy for LifeGuard**  
+**Effective Date:** 1/30/2026  
+**Company:** ALL1CODE, LLC  
+**Application:** LifeGuard  
+
+---
+
+## **1. Introduction**
+LifeGuard, developed by ALL1CODE, LLC (“we,” “us,” or “our”), is a health‑technology application designed to support emergency response, early‑warning detection, and continuous health monitoring. This Privacy Policy explains how we collect, use, disclose, and protect personal information, including sensitive health data.  
+
+Although LifeGuard is currently in development and not publicly distributed, we maintain strict privacy and security practices consistent with **HIPAA‑aligned standards** and industry best practices.
+
+---
+
+## **2. Information We Collect**
+LifeGuard may collect the following categories of information, depending on user permissions and integrations:
+
+### **2.1 Health and Physiological Data**
+Collected through Garmin devices, Apple HealthKit, Google Health Connect, or other wearable integrations:
+- Heart rate and heart rate variability (HRV)  
+- Stress, respiration, and sleep metrics  
+- Activity data (steps, movement, workouts)  
+- Pulse oximetry (SpO₂)  
+- Body temperature (if available)  
+- GPS‑based activity routes  
+- Other device‑generated physiological signals  
+
+### **2.2 Medical and Clinical Information**
+- Medical history  
+- Diagnoses and conditions  
+- Medications  
+- Allergies  
+- Emergency contacts  
+- Care team information  
+- User‑reported symptoms  
+
+### **2.3 Insurance Information**
+- Insurance provider  
+- Policy numbers  
+- Coverage details (if provided by user)  
+
+### **2.4 Demographic Information**
+- Name  
+- Age  
+- Gender  
+- Date of birth  
+- Address  
+- Contact information  
+
+### **2.5 Location Information**
+- Real‑time GPS location  
+- Background location (with explicit permission)  
+- Location during emergency events  
+
+### **2.6 User‑Generated Input**
+- Notes, responses, or assessments  
+- Survey answers  
+- Uploaded documents or images  
+
+### **2.7 Technical Information**
+- Device identifiers  
+- App usage data  
+- Crash logs  
+- Operating system and hardware details  
+
+---
+
+## **3. How We Use Your Information**
+We use collected information to:
+
+- Provide health monitoring and emergency‑response features  
+- Generate insights, alerts, and risk assessments  
+- Facilitate communication with emergency contacts or care teams  
+- Improve app functionality and user experience  
+- Support research or analytics (only with user consent)  
+- Comply with legal or regulatory requirements  
+
+We **do not** use health data for advertising or marketing.
+
+---
+
+## **4. HIPAA‑Aligned Protections**
+While LifeGuard may not yet qualify as a HIPAA “covered entity” or “business associate,” we voluntarily adopt **HIPAA‑style safeguards**, including:
+
+- Encryption of data in transit and at rest  
+- Access controls and authentication  
+- Minimum necessary data handling  
+- Audit logging  
+- Secure data storage and transmission  
+- Policies for breach notification and incident response  
+
+---
+
+## **5. How We Share Information**
+We may share information only in the following circumstances:
+
+### **5.1 With Your Explicit Consent**
+For example:
+- Sharing data with clinicians  
+- Sharing data with emergency responders  
+- Sharing data with caregivers or family  
+
+### **5.2 With Service Providers**
+Trusted vendors who support:
+- Cloud hosting  
+- Data processing  
+- Analytics  
+- Security  
+
+All vendors must comply with strict confidentiality and security requirements.
+
+### **5.3 For Emergency Situations**
+If the app detects a life‑threatening event, we may share:
+- Location  
+- Vital signs  
+- Emergency contact information  
+with designated responders or contacts.
+
+### **5.4 Legal Requirements**
+We may disclose information if required by law, subpoena, or court order.
+
+We **never** sell personal or health data.
+
+---
+
+## **6. Data Storage and Security**
+We use secure, encrypted storage solutions and industry‑standard security practices. Data may be stored in HIPAA‑capable cloud environments. Access is restricted to authorized personnel only.
+
+---
+
+## **7. User Rights**
+Depending on your jurisdiction, you may have the right to:
+
+- Access your data  
+- Correct inaccurate information  
+- Request deletion  
+- Withdraw consent  
+- Export your data  
+- Disconnect wearable integrations  
+
+You may exercise these rights by contacting us at the email below.
+
+---
+
+## **8. Wearable and Platform Integrations**
+LifeGuard integrates with:
+
+### **Garmin Developer Program**
+Data is accessed only with user authorization. Users may revoke access at any time through Garmin Connect.
+
+### **Apple HealthKit**
+We only read data that users explicitly permit.  
+We do **not** write data to HealthKit unless authorized.
+
+### **Google Health Connect**
+We follow all Health Connect data‑handling rules and permissions.
+
+We do not use wearable data for advertising or profiling.
+
+---
+
+## **9. Data Retention**
+We retain data only as long as necessary to provide services or comply with legal obligations. Users may request deletion at any time.
+
+---
+
+## **10. Children’s Privacy**
+LifeGuard is not intended for users under 13 unless used under parental or guardian supervision and with explicit consent.
+
+---
+
+## **11. Changes to This Policy**
+We may update this Privacy Policy as the app evolves. Updates will be posted at the same URL with a revised effective date.
+
+---
+
+## **12. Contact Information**
+For questions, concerns, or privacy requests:
+
+**ALL1CODE, LLC**  
+Email: Info@all1code.com  
